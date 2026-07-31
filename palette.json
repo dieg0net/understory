@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "name": "Understory",
   "version": "1.0.0",
-  "description": "A dark wood-and-new-growth color palette.",
+  "description": "A dark tropical-understory color palette shaped by canopy shadow, hardwood, and climbing green.",
   "colors": {
     "understory0":  { "hex": "#181B16", "family": "forest-floor", "name": "forest-black" },
     "understory1":  { "hex": "#20251D", "family": "forest-floor", "name": "bark-surface" },

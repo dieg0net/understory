@@ -1,8 +1,8 @@
 # Understory
 
 <p align="center">
-  <strong>A dark wood-and-new-growth color palette.</strong><br>
-  Quiet enough for long sessions. Alive enough to feel at home.
+  <strong>A dark tropical-understory color palette.</strong><br>
+  Cool canopy shadow. Warm hardwood. Green that keeps climbing.
 </p>
 
 <p align="center">
@@ -15,14 +15,14 @@
   <img alt="Contrast aware" src="https://img.shields.io/badge/contrast-aware-A47B50?style=flat-square&labelColor=181B16">
 </p>
 
-Understory takes its atmosphere from black soil, deep timber, shaded leaves,
-and the warmer colors found close to the forest floor. It is designed as a
-portable source palette for terminals, editors, desktop shells, syntax themes,
-and application interfaces.
+Understory takes its atmosphere from humid shadow, dark tropical hardwood,
+filtered light, broad leaves, and vines reaching through the jungle floor. It
+is designed as a portable source palette for terminals, editors, desktop
+shells, syntax themes, and application interfaces.
 
 ## Color families
 
-### Forest Floor
+### Jungle Floor
 
 The structural darks: backgrounds, raised surfaces, borders, and selections.
 
@@ -33,7 +33,7 @@ The structural darks: backgrounds, raised surfaces, borders, and selections.
 | `understory2` | `#2B3127` | borders and subtle separators |
 | `understory3` | `#3F5B3A` | selection and active surface |
 
-### Linen Canopy
+### Filtered Light
 
 Warm neutrals that avoid the blue cast of conventional dark themes.
 
@@ -45,9 +45,9 @@ Warm neutrals that avoid the blue cast of conventional dark themes.
 | `understory7` | `#D8D2C4` | primary foreground |
 | `understory8` | `#F0EBDD` | emphasized foreground / ANSI bright white |
 
-### New Growth
+### Tropical Growth
 
-The living core of the palette: moss, leaves, water, links, and success states.
+The living core of the palette: moss, ferns, vines, water, links, and success states.
 
 | Token | Hex | Suggested role |
 | --- | --- | --- |
