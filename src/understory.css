@@ -1,0 +1,31 @@
+:root {
+  --understory-0: #181b16;
+  --understory-1: #20251d;
+  --understory-2: #2b3127;
+  --understory-3: #3f5b3a;
+  --understory-4: #5c6257;
+  --understory-5: #8f9487;
+  --understory-6: #bdb7aa;
+  --understory-7: #d8d2c4;
+  --understory-8: #f0ebdd;
+  --understory-9: #66845a;
+  --understory-10: #8ead73;
+  --understory-11: #668f92;
+  --understory-12: #6e9b85;
+  --understory-13: #89b49b;
+  --understory-14: #a47b50;
+  --understory-15: #c59b58;
+  --understory-16: #b8645b;
+  --understory-17: #88768f;
+
+  --understory-bg: var(--understory-0);
+  --understory-surface: var(--understory-1);
+  --understory-border: var(--understory-2);
+  --understory-selection: var(--understory-3);
+  --understory-muted: var(--understory-5);
+  --understory-fg: var(--understory-7);
+  --understory-accent: var(--understory-10);
+  --understory-link: var(--understory-12);
+  --understory-warning: var(--understory-15);
+  --understory-error: var(--understory-16);
+}

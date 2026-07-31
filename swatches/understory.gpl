@@ -1,0 +1,22 @@
+GIMP Palette
+Name: Understory
+Columns: 6
+#
+24  27  22  understory0-forest-black
+32  37  29  understory1-bark-surface
+43  49  39  understory2-lichen-border
+63  91  58  understory3-moss-shadow
+92  98  87  understory4-stone-muted
+143 148 135 understory5-sage-muted
+189 183 170 understory6-weathered-linen
+216 210 196 understory7-warm-linen
+240 235 221 understory8-sunlit-linen
+102 132 90  understory9-moss
+142 173 115 understory10-new-growth
+102 143 146 understory11-shaded-water
+110 155 133 understory12-fern
+137 180 155 understory13-fresh-fern
+164 123 80  understory14-warm-wood
+197 155 88  understory15-forest-amber
+184 100 91  understory16-clay-red
+136 118 143 understory17-dusk-violet

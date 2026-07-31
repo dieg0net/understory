@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "Understory",
+  "version": "1.0.0",
+  "description": "A dark wood-and-new-growth color palette.",
+  "colors": {
+    "understory0":  { "hex": "#181B16", "family": "forest-floor", "name": "forest-black" },
+    "understory1":  { "hex": "#20251D", "family": "forest-floor", "name": "bark-surface" },
+    "understory2":  { "hex": "#2B3127", "family": "forest-floor", "name": "lichen-border" },
+    "understory3":  { "hex": "#3F5B3A", "family": "forest-floor", "name": "moss-shadow" },
+    "understory4":  { "hex": "#5C6257", "family": "linen-canopy", "name": "stone-muted" },
+    "understory5":  { "hex": "#8F9487", "family": "linen-canopy", "name": "sage-muted" },
+    "understory6":  { "hex": "#BDB7AA", "family": "linen-canopy", "name": "weathered-linen" },
+    "understory7":  { "hex": "#D8D2C4", "family": "linen-canopy", "name": "warm-linen" },
+    "understory8":  { "hex": "#F0EBDD", "family": "linen-canopy", "name": "sunlit-linen" },
+    "understory9":  { "hex": "#66845A", "family": "new-growth", "name": "moss" },
+    "understory10": { "hex": "#8EAD73", "family": "new-growth", "name": "new-growth" },
+    "understory11": { "hex": "#668F92", "family": "new-growth", "name": "shaded-water" },
+    "understory12": { "hex": "#6E9B85", "family": "new-growth", "name": "fern" },
+    "understory13": { "hex": "#89B49B", "family": "new-growth", "name": "fresh-fern" },
+    "understory14": { "hex": "#A47B50", "family": "heartwood", "name": "warm-wood" },
+    "understory15": { "hex": "#C59B58", "family": "heartwood", "name": "forest-amber" },
+    "understory16": { "hex": "#B8645B", "family": "heartwood", "name": "clay-red" },
+    "understory17": { "hex": "#88768F", "family": "heartwood", "name": "dusk-violet" }
+  },
+  "semantic": {
+    "background": "understory0",
+    "surface": "understory1",
+    "border": "understory2",
+    "selection": "understory3",
+    "comment": "understory4",
+    "muted": "understory5",
+    "foregroundSecondary": "understory6",
+    "foreground": "understory7",
+    "foregroundEmphasis": "understory8",
+    "accent": "understory10",
+    "link": "understory12",
+    "success": "understory10",
+    "warning": "understory15",
+    "error": "understory16",
+    "keyword": "understory17"
+  }
+}
