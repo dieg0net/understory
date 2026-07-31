@@ -1,4 +1,4 @@
-# 󱔐 Understory
+# Understory
 
 <p align="center">
   <strong>A dark wood-and-new-growth color palette.</strong><br>
